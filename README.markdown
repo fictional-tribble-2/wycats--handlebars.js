@@ -89,7 +89,7 @@ Handlebars has been designed to work in any ECMAScript 3 environment. This inclu
 Older versions and other runtimes are likely to work but have not been formally
 tested. The compiler requires `JSON.stringify` to be implemented natively or via a polyfill. If using the precompiler this is not necessary.
 
-[![Selenium Test Status](https://saucelabs.com/browser-matrix/handlebars.svg)](https://saucelabs.com/u/handlebars) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/wycats--handlebars.js.svg)](https://www.staging.guardrails.io)
+[![Selenium Test Status](https://saucelabs.com/browser-matrix/handlebars.svg)](https://saucelabs.com/u/handlebars) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/wycats--handlebars.js.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/wycats--handlebars.js.svg)](https://www.guardrails.io)
 
 Performance
 -----------
